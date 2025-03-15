@@ -5,3 +5,4 @@ Then maybe  later create an example area for each command however I do not know 
 
 | Command | Description | Example |
 |---|---|---|
+| SELECT | How you start off any query, Retrieves data from one or more tables | - |
